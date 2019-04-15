@@ -1,6 +1,8 @@
 ---
-kibana_version: "6.x"
+kibana_major_version: "6.x"
+kibana_version: "6.5.4"
 
+#kibana_package: kibana-oss
 kibana_package: kibana
 kibana_package_state: present
 
